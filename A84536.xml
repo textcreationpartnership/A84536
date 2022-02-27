@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and instructions for the tare of goods &amp; merchandize imported into any port of England: revised and published by the Farmers of His Majesties Customs. As a direction to all their officers concerned therein.</title>
+            <author>Farmers of His Majesties Customs.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84536</idno>
+            <idno type="STC">Wing E923B</idno>
+            <idno type="STC">ESTC R224756</idno>
+            <idno type="EEBO-CITATION">45578350</idno>
+            <idno type="OCLC">ocm 45578350</idno>
+            <idno type="VID">172276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172276)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2623:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and instructions for the tare of goods &amp; merchandize imported into any port of England: revised and published by the Farmers of His Majesties Customs. As a direction to all their officers concerned therein.</title>
+                  <author>Farmers of His Majesties Customs.</author>
+                  <author>Whittell, S.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed Anno Dom. 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 14 signed: S. Whittell, Secret.</note>
+                  <note>Reproduction of original in the Jesus College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Great Britain --  Early works to 1800.</term>
+               <term>Tare --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172276:1" rendition="simple:additions"/>
+            <p>RULES AND INSTRUCTIONS FOR THE TARE OF Goods &amp; Merchandize Imported into any Port of ENGLAND.</p>
+            <p>Reviſed and Publiſhed by the Farmers of His Maje<g ref="char:EOLhyphen"/>ſties Cuſtoms. As a Direction to all Their Officers concerned therein.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:172276:2"/>
+            <pb n="1" facs="tcp:172276:2"/>
+            <argument>
+               <p>
+                  <hi>Rules</hi> and <hi>Inſtructions</hi> publiſhed by the Farmers of His Majeſties Cuſtoms to be obſerved by all their Officers in their al<g ref="char:EOLhyphen"/>lowance of Tares upon all Goods and Merchandizes; which are not to be al<g ref="char:EOLhyphen"/>tered or deviated from in any caſe, with<g ref="char:EOLhyphen"/>in the Port of <hi>London,</hi> without the ſpe<g ref="char:EOLhyphen"/>cial direction of the ſaid Farmers, or in their abſence without the Advice and Conſent of their General Surveyors, and Surveyor of the Warehouſe, or of ſome two of them at the leaſt, whereof the Surveyor of the Ware-houſe to be one; And in the Out Ports not without the Conſent and Advice of the Collector and Surveyor; or where there is no Survey<g ref="char:EOLhyphen"/>or by the Collector himſelf, giving ſpeedy notice to the Farmers of the reaſon of his ſo doing.</p>
+            </argument>
+            <list>
+               <head>A</head>
+               <item>ALlum in Cask, to be allowed for Tare twelve pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Almonds in Cask, to be allowed for Tare fourteen pound weight <hi>per Cent.</hi>
+               </item>
+               <item>
+                  <pb n="2" facs="tcp:172276:3"/>
+Anniſeeds in Sernes and Bags, contain<g ref="char:EOLhyphen"/>ing about three hundred and three quarters, for Tare eighteen pound weight only.</item>
+               <item>Anniſeeds
+<list>
+                     <item>From <hi>Smyrna,</hi> with Felts containing about three hundred and half, for tare twenty pound weight only.</item>
+                     <item>Without Felts, for Tare fourteen pound weight only.</item>
+                  </list>
+               </item>
+               <item>Argal in Cask, to be allowed for Tares fourteen pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Almonds
+<list>
+                     <item>In Bags, to be allowed for Tare four pound weight <hi>per</hi> Bag.</item>
+                     <item>In Serns and Bags contain<g ref="char:EOLhyphen"/>ing two hundred weight, for Tare eighteen pound weight only.</item>
+                  </list>
+               </item>
+               <item>Aſhes vocat. Pot-aſhes, to be allowed for Tare ten pound weight <hi>per Cent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>BAcks for Chimneys of half a hun<g ref="char:EOLhyphen"/>dred weight and downwards to be accompted ſmall, and upwards above that weight to be accounted great.</item>
+               <item>
+                  <pb n="3" facs="tcp:172276:3"/>
+Berrilia
+<list>
+                     <item>In double Searns, containing about thre hundred weight, for tare twenty eight pound weight only.</item>
+                     <item>In ſingle ſearns, for tare fourteen pound weight only.</item>
+                  </list>
+               </item>
+               <item>Beaver-Wooll in hogſheads or brizles, for tare ſeventy five pound weight only.</item>
+               <item>Beaver-Wooll in crobyes, let them be tared, and allowance for tare be made accordingly.</item>
+               <item>Benjamin to be tared, and allowance for tare to be made accordingly.</item>
+               <item>Books in Bails, each Bail containing one hundred weight, eight of them makes a Maund.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>CApers, one third part to be allow<g ref="char:EOLhyphen"/>ed for tare, but then no allowance of five pound weight <hi>per Cent.</hi> it be<g ref="char:EOLhyphen"/>ing included in the one third part for tare.</item>
+               <item>Caſtile Soap.
+<list>
+                     <item>In double ſearns; for tare thirty pound weight only.</item>
+                     <item>In ſingle Searns, for tare ſix<g ref="char:EOLhyphen"/>teen pound weight only.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="4" facs="tcp:172276:4"/>
+Caſtile-Soap. In Cheſts containing about two hundred and a half, thirty four pound weight only.</item>
+               <item>Cardamums, the bail, for tare fourteen pound weight only.</item>
+               <item>Cochaneile in Cheſts covered with skins, containing about one hundred and half, for tare fifty pound weight only. And downwards proportio<g ref="char:EOLhyphen"/>nably.</item>
+               <item>Cochaneile in Barrels, about one hun<g ref="char:EOLhyphen"/>dred and half, Barrel and Bag, tare twenty four pound weight only.</item>
+               <item>Cloves and Mace, tare them, and allow for tare accordingly.</item>
+               <item>Copper Fats, for tare eight pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Copperis in cask, for tare twelve pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Cotton-wool, and Goats-wooll, and Hops, for tare four pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Cotton-yarn, for tare five pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Cotton-yarn from <hi>India, per</hi> Bail con<g ref="char:EOLhyphen"/>taining about three hundred weight, for tare fourty five pound weight only.</item>
+               <item>
+                  <pb n="5" facs="tcp:172276:4"/>
+Currans
+<list>
+                     <item>In Buts and Carratels, for tare ſixteen pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>In quarter Rowls, for tare twenty pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>In bags containing about four hun<g ref="char:EOLhyphen"/>dred pound weight, for tare ten pound weight <hi>per</hi> Bag.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>FLax the Laſt to be accounted to contain ſeventeen hundred weight.</item>
+               <item>Feathers, for tare to be allowed four pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Figs in Barrels, for tare twelve pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Fruit in Baskets, for tare three pound weight <hi>per</hi> Basket.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>GAuls from <hi>Aleppo</hi> &amp; <hi>Smyrna.</hi>
+                  <list>
+                     <item>In double bags, for tare ſe<g ref="char:EOLhyphen"/>ven pound weight only.</item>
+                     <item>In ſingle bags, for tare four pound weight only.</item>
+                  </list>
+               </item>
+               <item>Gum-laque, Seed-laque, and Shel<g ref="char:EOLhyphen"/>laque, in Bails, for tare ſeven pound weight <hi>per</hi> Bail.</item>
+               <item>In Cheſts and Churles, tare them, and make allowance for tare accordingly</item>
+            </list>
+            <list>
+               <pb n="6" facs="tcp:172276:5"/>
+               <head>H</head>
+               <item>HArneſs plates or breaſts, each to be accounted for an Iron double.</item>
+               <item>Hemp vocat. Steel-hemp in Fats, for tare fourteen pound weight <hi>per Cent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>INdico in Cheſts covered with skins containing about one hundred and three quarters weight, be allowed for tare forty eight pound weight only.</item>
+               <item>Indico in bales covered with skins, con<g ref="char:EOLhyphen"/>taining about one hund. and a half, tare ſixteen pound weight only.</item>
+               <item>Indico in Churles, tare the Churles, and make allowance of tare accordingly.</item>
+               <item>Iron Wyer Fats, for tare ſix pound weight <hi>per Cent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>KEttle Fats, for tare eight pound weight <hi>per Cent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>LOckeram the piece containing but one hundred and four Els, and ſhould contain, as <hi>per</hi> book of Rates, one hundred ſix Els; therefore allowance to be made, beſides the five <hi>per Cent.</hi> of two Els <hi>per Cent.</hi> for loſs of meaſure.</item>
+               <item>
+                  <pb n="7" facs="tcp:172276:5"/>
+Linen of all ſorts, take the contents &amp; allow ſeven <hi>per Cent.</hi> of Flemiſh mea<g ref="char:EOLhyphen"/>ſure, and of Engliſh contents allow but five <hi>per Cent.</hi>
+               </item>
+               <item>Except Gentiſh being contented by the Gentiſh meaſure, includes the allowance of five <hi>per Cent.</hi> and ſo no allowance to be made thereupon.</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>MAdder in bales great and ſmall, ſingle and double bags, for tare twenty eight pound weight only.</item>
+               <item>In Fats for tare ten pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Mirrhe the Cheſt, tare the Cheſt, &amp; allow for the tare thereof accord<g ref="char:EOLhyphen"/>ingly.</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>NUtmegs in Cask, for tare ten <hi>per Cent.</hi> ſuttle.</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>OYles in certain Cask, one in twenty for allowance of five <hi>per Cent.</hi> and Leakage, under ten none, above twen<g ref="char:EOLhyphen"/>ty proportionable.</item>
+               <item>Oyles in Candy barrels, for tare twen<g ref="char:EOLhyphen"/>ty nine pound weight only.</item>
+               <item>Oyles in uncertain Cask to be weigh<g ref="char:EOLhyphen"/>ed, &amp; to be allowed eighteen pound
+<pb n="8" facs="tcp:172276:6"/>weight <hi>per Cent.</hi> out of the groſs hundred for tare.
+<list>
+                     <item>Note that ſeven pound and half make a gallon, two hundred fifty two gallons a ton Civil gage.</item>
+                  </list>
+               </item>
+               <item>Olibanum the Hogſhead, to be tared and allowance of tare to be made accordingly.</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>SAlt-petre in Cask, for tare twelve pound weight <hi>per Cent.</hi>
+               </item>
+               <item>Salt-petre the bale, for tare twelve pound weight only <hi>per Cent.</hi>
+               </item>
+               <item>Pepper the bags containing three hun<g ref="char:EOLhyphen"/>dred pound weight and upwards: in ſingle bags for tare four pound weight only.
+<list>
+                     <item>In double bags of the ſame weight, for tare ſeven pound weight only.</item>
+                  </list>
+               </item>
+               <item>Prunes in Punchins, for tare ſixteen pound <hi>per Cent.</hi> in other Cask four<g ref="char:EOLhyphen"/>teen <hi>per Cent.</hi> weight.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>RAiſons in Frails from all places containing about three quarters of a hundred, for tare ſix pound weight <hi>per</hi> Fraile only.</item>
+               <item>
+                  <hi>Lippora</hi> Raiſons the barrel containing
+<pb n="9" facs="tcp:172276:6"/>about one hundred weight, tare <hi>per</hi> barrel fourteen pound weight only.</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aiſons <hi>ſolis</hi> in Cask, for tare twelve pound <hi>per Cent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SMalt or Powder-blew in Cask, for tare ten pound weight <hi>per Cent.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilks
+<list>
+                     <item>in Bales of <hi>Bellonio,</hi> Package with Serecloaths containing a<g ref="char:EOLhyphen"/>bout two hundred weight, for tare Twenty eight pound weight only.</item>
+                     <item>In bales of <hi>Naples,</hi> with Sere<g ref="char:EOLhyphen"/>cloaths, containing about two hundred weight, for tare ſix pound weight only.</item>
+                     <item>Fangats of <hi>Naples</hi> containing about one hundred and half, for tare twelve pound weight only.</item>
+                     <item>And ſo proportionably down<g ref="char:EOLhyphen"/>wards.</item>
+                     <item>
+                        <hi>Meſſina</hi> bales thron and raw, for tare ten pound weight only.</item>
+                     <item>Raw Silk, long bales of <hi>Aleppo,</hi> with Cotton Wool containing about three hundred &amp; a quar<g ref="char:EOLhyphen"/>ter, and ſo to two hundred &amp; three quarter, for tare thirty two pound weight only.</item>
+                     <item>
+                        <pb n="10" facs="tcp:172276:7"/>
+                        <hi>Ardas</hi> ſilk in <hi>Aleppo,</hi> ſhort bald of the ſame contents, and pac<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ed with Cotton Wool<g ref="char:punc">▪</g> for ta<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> thirty pound weight only.</item>
+                     <item>Fangats of <hi>Aleppo,</hi> containing two hundred and a quarter, <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> two hundred and a half, f<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> tare twenty four pound weig<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> only.</item>
+                     <item>Fangats of <hi>Aleppo,</hi> containing one hundred three quarters, o<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> two hundred weight, for ta<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> twenty pound weight only.</item>
+                     <item>Fangats of <hi>Aleppo</hi> containin<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> one hundred and a quarter, o<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> one hundred &amp; a half, for ta<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> eighteen pound weight only.</item>
+                     <item>Raw Silk of <hi>Smyrna</hi> or <hi>Cypru<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> containing three hundred an<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> upwards, for tare ſixteen poun<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> weight only.</item>
+                     <item>Downwards to 200. for ta<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> fourteen pound weight only.</item>
+                     <item>From two hundred weigh<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> downwards, for tare twel<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> pound weight only.</item>
+                     <item>Bal<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s of Silk from <hi>Perſia,</hi> con<g ref="char:EOLhyphen"/>taining about one hundre<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and a quarter for tare twen<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> pound only.</item>
+                     <item>
+                        <pb n="11" facs="tcp:172276:7"/>
+Sinamond in skins covered with bags ſixteen pound weight, for Tare <hi>per</hi> ſuttle hundred.</item>
+                     <item>Without bags fourteen pound weight for Tare only.</item>
+                     <item>Sugar in bales from <hi>India,</hi> for Tare thirty ſix pound weight only.
+<list>
+                           <item>In Cheſts one fifth part for Tare.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Cask one ſixth part for Tare.</item>
+                     <item>Sugar-candy, tare them, and make al<g ref="char:EOLhyphen"/>lowance of Tare accordingly.</item>
+                     <item>Sugar of St. <hi>Thomas</hi> in Cask, one fifth part for Tare.</item>
+                     <item>Sugar in canniſters, one ſixth part for Tare.</item>
+                     <item>Loaf-ſugar, Paper, Thred and Straw, and Cask, for tare ſixteen <hi>per Cent.</hi>
+                     </item>
+                     <item>Shumack in bags, containing about three hundred and a half, for Tare ten pound weight only.</item>
+                     <item>Shumack in bags, containing about ſe<g ref="char:EOLhyphen"/>ven hundred weight, for tare four<g ref="char:EOLhyphen"/>teen pound weight only.</item>
+                     <item>Succades the Cheſt, containing about one hundred and half, for tare forty pound weight only.</item>
+                  </list>
+                  <list>
+                     <pb n="12" facs="tcp:172276:8"/>
+                     <head>T.</head>
+                     <item>TAllow from <hi>Ruſſia</hi> in Cask, an<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> from <hi>Ireland,</hi> for Tare twel<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>Thred
+<list>
+                           <item>Siſters nothing.</item>
+                           <item>Outnel: is to be told, an<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> to pay by the Fl<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>miſh pound a formerly with ſi<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <hi>per C.</hi> allowance</item>
+                           <item>Whited brown is to be told, an<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> to pay by the Fl<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>miſh pound a formerly with ſi<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <hi>per C.</hi> allowance</item>
+                           <item>Briges or black and brown is to be told, an<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> to pay by the Fl<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>miſh pound a formerly with ſi<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <hi>per C.</hi> allowance</item>
+                        </list>
+                     </item>
+                     <item>Tobacco
+<list>
+                           <item>Spaniſh in barrels, contain<g ref="char:EOLhyphen"/>ing about two hundred and a quarter, for Tare twenty eight pound weight onely</item>
+                           <item>In half barrels, containin<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> about one hundred and <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> quarter, for Tare eighteen pound weight onely.</item>
+                           <item>Spaniſh in Pottaccos, with<g ref="char:EOLhyphen"/>out Canvis, for Tare four<g ref="char:EOLhyphen"/>teen pound weight onely.</item>
+                           <item>With Canvis, for Tare ſix<g ref="char:EOLhyphen"/>teen pound weight onely</item>
+                           <item>With skins, for tare twenty ſix pound weight only.</item>
+                           <item>Virginia in Hogſhead, weigh<g ref="char:EOLhyphen"/>ing under five hund. eighty pound tare, above five hund. ninety pound tare.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <pb n="13" facs="tcp:172276:8"/>
+Tobacco Barbadoes in roule per ſtick, for tare ſix pound weight onely.</item>
+                     <item>Tobacco Bermudaes in Cheſts and uncertain Cask, tare them and make allowance ac<g ref="char:EOLhyphen"/>cordingly.</item>
+                  </list>
+                  <list>
+                     <head>W.</head>
+                     <item>WOrm-ſeeds from <hi>Aleppo</hi> with Cotten-wool, for tare twenty four pound weight onely.</item>
+                     <item>Worm-ſeeds and Anniſeeds bailes with felts from <hi>Smyrna,</hi> containing about three hundred and three quarters, for tare twenty four pound weight onely.</item>
+                     <item>Caſtile Spaniſh felt wool, containing about two hundred and a quarter, for tare fourteen pound weight onely.</item>
+                     <item>Eſtridge or Lambs Wool, for tare to be allowed four pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>Poliſh wool, for tare to be allowed four pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>Spaniſh Cloth Wool, containing about two hundred weight, for tare twen<g ref="char:EOLhyphen"/>ty eight pound weight onely.</item>
+                     <item>
+                        <pb n="14" facs="tcp:172276:9"/>
+Sigovia Spaniſh felt Wool, containing about two hundred weight, for tare fifteen pound weight onely.</item>
+                  </list>
+                  <list>
+                     <head>Y.</head>
+                     <item>CAble-yarn in Winch from <hi>Ruſſia</hi> for tare twenty eight pound weight onely.</item>
+                     <item>Yarn in Fats from Eaſtland, for tare 12 pound weight <hi>per Cent.</hi>
+                     </item>
+                     <item>Grogoram and Moehaire yarn, in bales from <hi>Aleppo</hi> with Cotton-wool, for tare twenty eight pound weight And proportionably downwards.</item>
+                     <item>Bales of Moehaire-yarn from <hi>Smyrna</hi> with felts, containing about four hundred weight, for tare twenty eight pound weight onely.</item>
+                     <item>Moehaire-yarn without Felts, about the ſame contents, eighteen pound weight onely.</item>
+                     <item>Fangats of Moehaire-yarn, containing one hundred three quarters or two hundred, without felts, for tare fourteen pound weight onely.</item>
+                     <item>Fangats containing about one hun<g ref="char:EOLhyphen"/>dred and half, without felts for tare twelve pound weight onely.</item>
+                  </list>
+               </item>
+            </list>
+            <closer>
+               <signed>
+                  <hi>By Order of the Farmers of his Majeſties Cuſtomes.</hi> S. Whittell <hi>Secret.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
